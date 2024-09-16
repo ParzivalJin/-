@@ -1,4 +1,4 @@
-# -<html>
+<html>
 <body>
 <h1>Call of Duty</h1>
 
